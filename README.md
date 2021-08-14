@@ -6,7 +6,7 @@
 - 👨🏻‍💻 I'm currently focused on improve my knowledge about ***Cybersecurity***, ***Cryptography*** and ***Blockchain***
 - 👀 I keep an eye on developing funny ***AI/CV*** projects
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+---
 
 ## 🌐 My presence on the Internet:
 
@@ -16,21 +16,20 @@
 [<img align="left" alt="ag | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+---
 
 ## 🎧 My music stream: 
 
 [![Spotify](https://novatorem-nu-umber.vercel.app/api/spotify)](https://open.spotify.com/user/1168667353?si=87acb315f71e488f)
 
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+---
 
 ## 📊 My stats:
 
 [![Alessandro Guggino's GitHub stats](https://github-readme-stats-alpha-rust.vercel.app/api?username=alessandroguggino&show_icons=true&hide_border=true&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroguggino&layout=compact&langs_count=10&show_icons=true&hide_border=true&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 align="right"><img src="https://komarev.com/ghpvc/?username=alessandroguggino&style=flat-square" alt="alessandroguggino" /></h2>
+<h5 align="left"><img src="https://komarev.com/ghpvc/?username=alessandroguggino&style=flat-square" alt="alessandroguggino" /></h5>
 
 [website]: https://alessandroguggino.github.io
 [linkedin]: https://www.linkedin.com/in/alessandroguggino
