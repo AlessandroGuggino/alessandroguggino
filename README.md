@@ -1,7 +1,7 @@
 # Hi there, I'm Alessandro! 👋
 
-## ... and I'm a Student and Developer
-- 🎓 I'm enrolled in the MSc in Computer Engineering (Cybersecurity) at Polytechnic University of Turin :it:
+## ... and I'm a Student
+- 🎓 I'm enrolled in the MSc in Computer Engineering (Cybersecurity) at [Polytechnic University of Turin][polito] :it:
 - 🌠 I'm participating as team co-leader in [BIT PoliTO][bitpolito]
 - 👨🏻‍💻 I'm currently focused on improve my knowledge about ***Cybersecurity***, ***Cryptography*** and ***Blockchain***
 - 👀 I keep an eye on developing funny ***AI/CV*** projects
@@ -14,7 +14,7 @@
 [<img align="left" alt="ag | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ag | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+</br>
 
 ---
 
@@ -35,6 +35,7 @@
 [linkedin]: https://www.linkedin.com/in/alessandroguggino
 [twitter]: https://www.twitter.com/alexguggino
 [instagram]: https://instagram.com/alessandroguggino
+[polito]: https://www.polito.it
 [bitpolito]: https://www.bitpolito.it
 
 <!--
