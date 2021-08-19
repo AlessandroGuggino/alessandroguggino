@@ -21,8 +21,8 @@
 
 ## 📊 My stats:
 
-[![Alessandro Guggino's GitHub stats](https://github-readme-stats-alpha-rust.vercel.app/api?username=alessandroguggino&show_icons=true&hide_border=true&count_private=true&title_color=64a9b9&icon_color=599cab&text_color=99d1ce&bg_color=0c1016)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroguggino&layout=compact&langs_count=10&show_icons=true&hide_border=true&count_private=true&title_color=64a9b9&icon_color=599cab&text_color=99d1ce&bg_color=0c1016)](https://github.com/anuraghazra/github-readme-stats)
+[![Alessandro Guggino's GitHub stats](https://github-readme-stats-alpha-rust.vercel.app/api?username=alessandroguggino&show_icons=true&hide_border=true&count_private=true&title_color=57a5ff&icon_color=599cab&text_color=99d1ce&bg_color=0c1016)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroguggino&layout=compact&langs_count=10&show_icons=true&hide_border=true&count_private=true&title_color=57a5ff&icon_color=599cab&text_color=99d1ce&bg_color=0c1016)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://alessandroguggino.github.io
