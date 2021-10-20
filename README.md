@@ -1,6 +1,5 @@
-# Hi there, I'm Alessandro! 👋
+## Hi there, I'm Alessandro! 👋
 
-## ... and I'm a Student
 - 🎓 I'm enrolled in the MSc in Computer Engineering (Cybersecurity) at [Politecnico di Torino][polito] :it:
 - 🌠 I'm participating as team co-leader in [BIT PoliTO][bitpolito]
 - 👨🏻‍💻 I'm currently focused on improving my knowledge about ***Cybersecurity***, ***Cryptography*** and ***Blockchain***
