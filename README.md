@@ -1,18 +1,18 @@
 ## Hi there, I'm Alessandro! 👋
 
 - 🎓 I'm enrolled in the MSc in Computer Engineering (Cybersecurity) at [Politecnico di Torino][polito] :it:
-- 🌠 I'm participating as team co-leader in [BIT PoliTO][bitpolito]
-- 👨🏻‍💻 I'm currently focused on improving my knowledge about ***Cybersecurity***, ***Cryptography*** and ***Blockchain***
-- 👀 I keep an eye on developing funny ***AI/CV*** projects
+- 🌠 I'm participating as team co-lead in [BIT PoliTO][bitpolito]
+- 👨🏻‍💻 I'm currently focused on improving my knowledge about ***Cybersecurity*** and ***Cryptography***
+- 👀 I keep an eye on developing funny projects
 
 ---
 
 ### 🌐 My presence on the Internet:
 
-[<img align="left" alt="website" width="20px" src="https://camo.githubusercontent.com/8c25ab07b62e602edf324911042fd70196a308013f736d404fb830e3a765c194/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f73616d73756e675f696e7465726e65742e737667" />][website]
-[<img align="left" alt="ag | LinkedIn" width="20px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />][linkedin]
-[<img align="left" alt="ag | Twitter" width="20px" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" />][twitter]
-[<img align="left" alt="ag | Instagram" width="20px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />][instagram]
+[<img align="left" alt="ag | Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
+[<img align="left" alt="ag | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="ag | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+
 
 </br>
 
@@ -27,7 +27,6 @@
 [website]: https://alessandroguggino.github.io
 [linkedin]: https://www.linkedin.com/in/alessandroguggino
 [twitter]: https://www.twitter.com/alexguggino
-[instagram]: https://instagram.com/alessandroguggino
 [polito]: https://www.polito.it
 [bitpolito]: https://www.bitpolito.it
 
