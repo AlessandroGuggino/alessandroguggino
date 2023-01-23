@@ -1,7 +1,7 @@
 ## Hi there, I'm Alessandro! 👋
 
-- 🎓 Graduated in the MSc in Computer Engineering (Cybersecurity) at [Politecnico di Torino][polito] :it:
-- 🌠 Partecipated as team co-lead in [BIT PoliTO][bitpolito]
+- ✨ Security Researcher at [CrowdStrike][crowdstrike]
+- 🎓 Graduated in the MS in Computer Engineering (Cybersecurity) at [Politecnico di Torino][polito] :it:
 - 👨🏻‍💻 Currently focused on improving my knowledge about ***Cybersecurity*** and ***Cryptography***
 - 👀 ... with a keen eye on developing funny projects!
 
@@ -29,6 +29,7 @@
 [twitter]: https://www.twitter.com/alexguggino
 [polito]: https://www.polito.it
 [bitpolito]: https://www.bitpolito.it
+[crowdstrike]: https://www.crowdstrike.com
 
 <!--
 **alessandroguggino/alessandroguggino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
