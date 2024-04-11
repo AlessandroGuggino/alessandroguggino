@@ -2,8 +2,7 @@
 
 - ✨ Security Researcher at [CrowdStrike][crowdstrike]
 - 🎓 Graduated in the MS in Computer Engineering (Cybersecurity) at [Politecnico di Torino][polito] :it:
-- 👨🏻‍💻 Currently focused on improving my knowledge about ***Cybersecurity*** and ***Cryptography***
-- 👀 ... with a keen eye on developing funny projects!
+- :octocat: Contributed to open-source projects by Microsoft, Chia Network, and IETF
 
 ---
 
